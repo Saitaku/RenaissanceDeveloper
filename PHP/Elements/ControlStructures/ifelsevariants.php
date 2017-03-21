@@ -1,9 +1,9 @@
 <?php
 /**
- * 	Write  if / else statements in PHP using these syntax variants:
+ * 	Write if / else statements in PHP using these syntax variants:
  * 		Traditional if/else syntax.
  * 		Traditional if / else if syntax.
- * 		Alternative  if / else syntax.
+ * 		Alternative if / else syntax.
  * 		Alternative if / else if syntax.
  * 		Ternary if / else syntax.
  */
