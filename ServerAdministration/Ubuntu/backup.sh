@@ -7,7 +7,7 @@ DB_PASS=""
 DB_NAME=""
 DB_HOST=""
 
-ROOTDIRECTORY="/var/www/blconlinecourses.com"
+ROOTDIRECTORY=""
 
 TREE_FILE="$NOW.tar.gz"
 
